@@ -1,5 +1,5 @@
-# IW & Game Design - Crashing Astromo 
-Wat een gewone routinemissie naar het internationale ruimtestation moest worden, draait al snel in de soep. Door een buitengewoon sterke zonnevlam slaan de systemen op het ruimteschip van Astromo uit! Er zat niets anders op dan een gevaarlijke noodlanding maken op de Maan ... Wanneer Astromo ontwaakt, liggen de brokstukken van het ruimteschip verspreid over het maanoppervlak. Alleen door ze allemaal te verzamelen kan hij een reddingsschip bouwen en terug naar huis keren. Maar Astromo lijkt niet alleen te zijn op de Maan. Door de harde crash lijken er groene wezens uit de kern van de satelliet te zijn ontsnapt. Help jij Astromo veilig terug te keren naar de Aarde?
+# IW & Game Design - Fire Skull
+Jij bent Fire Skull, legende onder de skaters in de onderwereld. Maar er ontstaat grote onrust wanneer de watermonsters de onderwereld binnenvallen en het vuur doven. Wat is Fire skull zonder zijn fire? Ga op zoek naar de legendarische Fire Sage. Wie weet kent de sage de oplossing voor deze invasie? Spring over krochten, gooi vuurballen naar jouw vijanden en versla alle monsters die jouw pad kruisen! Show your skills! Herover jouw fire!
 
 De game kan je spelen via volgende link: 
 https://robbew.github.io/fire_skull/
